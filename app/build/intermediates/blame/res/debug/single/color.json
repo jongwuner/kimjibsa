@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\c913acc5f11ad07177f4dd1486d3c0e7c89e5a62\\output\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\HaJinHo\\.android\\build-cache\\7be17f5112d8d6791554fb01b24290c231f16867\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kimjipsa</string>
+    <string name="about">About</string>
+    <string name="title">제목 : </string>
+    <string name="menu_delete">메모 삭제</string>
+    <string name="item">Item</string>
+    <string name="no_title">제목 없음</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="delete_menu_noteedit">Delete</string>
+    <string name="str_start">Start</string>
+    <string name="str_stop">Stop</string>
+    <string name="str_end">확인</string>
+</resources>

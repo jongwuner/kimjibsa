@@ -1,0 +1,25 @@
+#Sat Jun 03 03:06:51 KST 2017
+renamed.7=classes4.dex
+renamed.6=classes6.dex
+renamed.5=classes2.dex
+renamed.4=classes7.dex
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes8.dex
+renamed.0=classes5.dex
+base.7=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_42d3dfafb8cccbdf5f1fcc275227abc530744f27
+base.6=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c7608f7d2c8f0430e9e1a391c02586259f830e80
+base.5=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1e903c0a0ba6f4ccf67c57d818662e6f54d399a9
+base.4=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_00a314cbeb5477796c2e363840d380dc17d11795
+base.3=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_13453abf10e14ec0ab97c526b0817ed0bef0ac09
+base.2=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3102ea7b64df9303b34d0347c84f8d63d3a0662f
+base.1=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_edd1c5892756013ea1c125184b15dd16b3286446
+base.0=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7e8a5c94dcf15533fc2eca02a901e1a4b4b11c34
+file.7=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_42d3dfafb8cccbdf5f1fcc275227abc530744f27\\classes.dex
+file.6=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c7608f7d2c8f0430e9e1a391c02586259f830e80\\classes.dex
+file.5=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1e903c0a0ba6f4ccf67c57d818662e6f54d399a9\\classes.dex
+file.4=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_00a314cbeb5477796c2e363840d380dc17d11795\\classes.dex
+file.3=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_13453abf10e14ec0ab97c526b0817ed0bef0ac09\\classes.dex
+file.2=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3102ea7b64df9303b34d0347c84f8d63d3a0662f\\classes.dex
+file.1=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_edd1c5892756013ea1c125184b15dd16b3286446\\classes.dex
+file.0=C\:\\Users\\HaJinHo\\AndroidStudioProjects\\Kimjipsa21\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7e8a5c94dcf15533fc2eca02a901e1a4b4b11c34\\classes.dex

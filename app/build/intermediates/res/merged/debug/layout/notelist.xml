@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/memowallpaper_2">
+
+    <TextView
+        android:id="@+id/textViewTop"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="35dp" />
+   <Button
+        android:id="@+id/ItemList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="ItemList" />
+ 
+    <Button
+        android:id="@+id/Setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:drawableLeft="@drawable/setting_icon"
+        android:text="Edit" />
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#D3D3D3"
+        android:dividerHeight="1sp"
+        android:footerDividersEnabled="true"
+        android:layout_below="@+id/textViewTop"
+        android:layout_alignParentLeft="true" />
+
+    <RelativeLayout
+        android:id="@+id/btmLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="start|end" >
+
+        <Button
+            android:id="@+id/addvoicebutton"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/voicebutton"
+            android:layout_alignParentLeft="true"
+                   									/>
+
+        <Button
+            android:id="@+id/addnotebutton"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/plusbutton"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
+</RelativeLayout>
